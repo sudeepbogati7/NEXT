@@ -30,7 +30,7 @@ export default function Nav() {
           </div>
 
           {/* start */}
-          <label className="theme-switch">
+          {/* <label className="theme-switch">
             <input
               type="checkbox"
               className="theme-switch__checkbox"
@@ -54,7 +54,7 @@ export default function Nav() {
                 </div>
               </div>
             </div>
-          </label>
+          </label> */}
 
 
         </div>
